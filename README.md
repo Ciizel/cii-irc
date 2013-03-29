@@ -24,6 +24,10 @@ Cii-irc Script는 한국의 UTF-8 IRC네트워크 [오징어 IRC 네트워크](h
 - [github 이슈트래커 사용, 결함 보고, 참여 방법](https://github.com/necolas/issue-guidelines/blob/master/CONTRIBUTING.md)
 - [github로 남의 프로젝트에 감놓고 배놓기](http://dogfeet.github.com/articles/2012/how-to-github.html)
 
+브런치 운영방식은 [A successful git branching model](http://dogfeet.github.com/articles/2011/a-successful-git-branching-model.html), [Git Flow](http://dogfeet.github.com/articles/2011/git-flow.html)을 참고하세요.
+
+버전 명명방법은 [Semantic Versioning](http://spoqa.github.com/2012/12/18/semantic-versioning.html)을 따릅니다. 
+
 ## 라이센스
 - The MIT license
 
